@@ -1,0 +1,24 @@
+
+# Google Artifact Registry repository ID.
+gar_repository_id = "htc-ref-arch"
+
+# Region of the Google Artifact Registry repository,
+gar_repository_region = ""
+
+# GitHub org id (required for Backstage)
+github_org_id = ""
+
+# Humanitec Organization ID.
+humanitec_org_id = ""
+
+# A prefix that will be attached to all IDs created in Humanitec.
+humanitec_prefix = "htc-ref-arch-"
+
+# GCP Project ID to provision resources in.
+project_id = ""
+
+# GCP Region to provision resources in.
+region = ""
+
+# Deploy Backstage
+with_backstage = false
